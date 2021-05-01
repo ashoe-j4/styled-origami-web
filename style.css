@@ -1,0 +1,27 @@
+h1 {
+    color: black;
+}
+.header{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: cursive;
+}
+h2{
+    color: #AABBCC;
+    text-align: center;
+}
+
+body{
+    background-size: 100% 200%;
+    font-family: cursive;
+}
